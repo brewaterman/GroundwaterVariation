@@ -21,5 +21,4 @@ Data extraction/collection > Import data files into bands > Construct python cod
  
 ### Changes
  * Clarify the time resolution of the average values for groundwater (daily, monthly, annually) - average over the years
- * Implement the project proposal in Markdown and push it to your repository.
  * Make better, more specifc sketch
