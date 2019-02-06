@@ -16,9 +16,12 @@ The idea for proposed code stems from the Microbiome of Aquatic ecosystems, Plan
 <img src="pptgrad.png" alt="pptgrad_image" width="350"/>
 
 ## Sketch
-Data extraction from USGS database > Import .gz data files > Code computes averages of gw levels within each band > output .csv file and/or figure (**make sketch and add image to repository**).
+Data extraction from USGS database > Import .gz data files > Code computes averages of gw levels within each band > output summary .csv file and/or figure (**make sketch and add image to repository**).
 
  
 ### Changes
  * Clarify the time resolution of the average values for groundwater - average over the past 20/30 years?
  * Make better, more specifc sketch
+
+
+start with one well over time, averages and then apply to region, once figured out then apply to region then apply to transect
