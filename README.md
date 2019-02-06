@@ -13,7 +13,7 @@ The goal for this code is to be able to process .gz data files extracted from US
 ## Background
 The idea for my proposed code stems from the MAPS figure (**Add image below (safe it to my desktop and add - see andres examples**), where the state of Kansas has been divided into bands based on precipitation amounts. Being able to construct a similar figure with data on groundwater levels projected across Kansas in a similar fashion would be beneficial towards visualizing groundwater variations across the state. 
 
-<img src="pptgradient.png" alt="pptgradient_image" width="350"/>
+<img src="pptgrad.png" alt="pptgrad_image" width="350"/>
 
 ## Sketch
 Data extraction/collection > Import data files into bands > Construct python code to compute averages of varaible within each band > output figure (**make sketch and safe, add image to this page - see andres sketch**).
