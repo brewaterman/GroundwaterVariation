@@ -16,7 +16,7 @@ The idea for my proposed code stems from the MAPS figure (see below), where the 
 <img src="pptgrad.png" alt="pptgrad_image" width="350"/>
 
 ## Sketch
-Data extraction/collection > Import data files into bands > Construct python code to compute averages of varaible within each band > output figure (**make sketch and safe, add image to this page - see andres sketch**).
+Data extraction/collection > Import data files into bands > Construct python code to compute averages of varaible within each band > output figure (**make sketch and add image to repository**).
 
  
 ### Changes
