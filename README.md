@@ -17,5 +17,5 @@ In an agriculturally driven state such as Kansas, water availability is invaluab
 ## Sketch
 
 
-<img src="sketch.png" alt="sketch_image" width="500"/>
+<img src="sketch1.png" alt="sketch1_image" width="500"/>
 
