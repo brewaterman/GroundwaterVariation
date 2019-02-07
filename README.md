@@ -11,9 +11,8 @@ I aim to construct code using python that will calculate the average water level
 The goal for this code is to be able to process .gz data files extracted from USGS and to calculate averages of groundwater levels from the past 20 years at a specific location (lat./long. coordinates are already known).
 
 ## Background
-In an agriculturally driven state such as Kansas, water availability is invaluable to the sustainability and growth of both the population and economy. The research for my thesis specifically aims to characterize the variation of water availability and quality across the Kansas aridity gradient. The idea for the proposed code stems from the Microbiome of Aquatic ecosystems, Plants and Soils (MAPS) figure located below, where the state of Kansas has been divided into bands based on average precipitation amounts. Calculating the water level averages of wells across Kansas would be beneficial towards understanding variation in groundwater levels over time, and potentially give insight on future availabilty trends as well as find relationships between precipitation.
+In an agriculturally driven state such as Kansas, water availability is invaluable to the sustainability and growth of both the population and economy. The research for my thesis specifically aims to characterize the variation of water availability and quality across the Kansas aridity gradient. Calculating the water level averages of wells across Kansas would be beneficial towards understanding variation in groundwater levels over time, and potentially give insight on future availabilty trends as well as find relationships between precipitation.
 
-<img src="pptgrad.png" alt="pptgrad_image" width="350"/>
 
 ## Sketch
 
