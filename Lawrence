@@ -1,0 +1,48 @@
+#
+#
+# US Geological Survey
+# retrieved: 2019-04-15 01:26:37 EDT
+# URL: https://nwis.waterdata.usgs.gov/nwis/gwlevels
+#
+# The Site File stores location and general information about groundwater,
+# surface water, and meteorological sites
+# for sites in USA.
+#
+# The following selected fields are included in this output:
+#
+#  agency_cd       -- Agency
+#  site_no         -- Site identification number
+#  station_nm      -- Site name
+#  site_tp_cd      -- Site type
+#  dec_lat_va      -- Decimal latitude
+#  dec_long_va     -- Decimal longitude
+#  coord_meth_cd   -- Latitude-longitude method
+#  coord_acy_cd    -- Latitude-longitude accuracy
+#  coord_datum_cd  -- Latitude-longitude datum
+#  dec_coord_datum_cd -- Decimal Latitude-longitude datum
+#  map_nm          -- Name of location map
+#  alt_va          -- Altitude of Gage/land surface
+#  alt_meth_cd     -- Method altitude determined
+#  alt_acy_va      -- Altitude accuracy
+#  alt_datum_cd    -- Altitude datum
+#  huc_cd          -- Hydrologic unit code
+#  basin_cd        -- Drainage basin code
+#  nat_aqfr_cd     -- National aquifer code
+#  aqfr_cd         -- Local aquifer code
+#  aqfr_type_cd    -- Local aquifer type code
+#  well_depth_va   -- Well depth
+#  hole_depth_va   -- Hole depth
+#  depth_src_cd    -- Source of depth data
+#  gw_begin_date   -- Field water-level measurements begin date
+#  gw_end_date     -- Field water-level measurements end date
+#  gw_count_nu     -- Field water-level measurements count
+#
+#
+# query started 2019-04-15 01:26:37 EDT
+#
+# there are 1 sites matching the search criteria.
+#
+#
+agency_cd	site_no	station_nm	site_tp_cd	dec_lat_va	dec_long_va	coord_meth_cd	coord_acy_cd	coord_datum_cd	dec_coord_datum_cd	map_nm	alt_va	alt_meth_cd	alt_acy_va	alt_datum_cd	huc_cd	basin_cd	nat_aqfr_cd	aqfr_cd	aqfr_type_cd	well_depth_va	hole_depth_va	depth_src_cd	gw_begin_date	gw_end_date	gw_count_nu
+5s	15s	50s	7s	16n	16n	1s	1s	10s	10s	20s	8s	1s	3s	10s	16s	2s	10s	8s	1s	8s	8s	1s	10d	10d	8n
+USGS	390006095132301	12S 20E 17CCB 01  LAWRENCE AIRPORT WELL	GW	39.00166825	-95.22330530	M	T	NAD27	NAD83	MIDLAND	 830.29	L	 .1	NGVD29	10270104	06	N100ALLUVL	112NWMN		53.0		M	1952-02-01	2015-08-12	3431
